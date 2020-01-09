@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en" style="overflow-x: hidden;">
+	<head>
+		<!-- Required meta tags -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<meta name="description" content="Rinoff es un sofocador que se activa automáticamente por exposición al fuego, es capaz de extinguir tipos ABC y BC.">
+
+		<!--Icons-->
+		<link href="https://cdn.lineicons.com/1.0.1/LineIcons.min.css" rel="stylesheet">
+		<link rel="icon" href="img/favicon.ico" />
+
+		<!--Fonts-->
+
+		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800&display=swap" rel="stylesheet">
+
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="css/bootstrap.min.css">
+
+		<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+		<title>Rinoff - PRODUCIDO POR BRISINCOL</title>
+	</head>
+
+	<body>
+		<header class="pt-2 pb-2">
+			<div class="container">
+				<div class="row align-top">
+					<div class="col-sm-12">
+						<div class="row">
+							<div class="col-sm-12 col-md-4 my-auto menu">
+								<a target="_blank" href="https://api.whatsapp.com/send?phone=573175247190&text=Hola,%20me%20interesa%20adquirir%20el%20producto%20Rinoff%20" target="_blank">
+									Contacto +57 317 5247190
+								</a>
+							</div>
+
+							<div class="col-sm-12 col-md-4 offset-md-4 text-right mt-2 mb-2 my-auto menu">
+								<a target="_blank" href="#" class="text-white btn btn-dark btn-circle btn-circle-sm m-1">
+									<i class="lni-facebook-filled"></i>
+								</a>
+
+								<a target="_blank" href="#" class="text-white btn btn-dark btn-circle btn-circle-sm m-1">
+									<i class="lni-instagram-original"></i>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="text-center logo">
+			<div class="row">
+				<div class="col-md-4 offset-md-4 d-flex justify-content-center">
+					<a href="#">
+						<img src="img/logo-rinoff.png" width="150" class="img-fluid d-block ml-auto" alt="" style=" margin-top: -50px;"> 
+					</a>	
+				</div>
+			</div>
+		</div>
+
+
+		<!--<section class="wowzers-area bg-fixed bg-overlay bg-home">
+			<div class="text-center">
+				<div class="row">
+					<div class="col-md-4 offset-md-4 d-flex justify-content-center">
+						<a href="#">
+							<img src="img/logo-rinoff.png" width="160" class="img-fluid d-block ml-auto" alt="" style=" margin-top: -50px;"> 
+						</a>	
+					</div>
+				</div>
+			</div>
+	        <div class="container h-100">
+	            <div class="row h-100 align-items-center">
+	                <div class="col-xs-12 col-sm-12 col-lg-6 offset-lg-6">
+
+	                    <div class="wowzers-content-preview mb-3 text-white">
+	                        <h3 class="font-weight-bold">Sofoca y Neutraliza el Fuego</h3>
+	                        <p class="font-weight-normal">Rinoff es un sofocador que se activa automáticamente por exposición al fuego, es capaz de extinguir tipos ABC y BC.</p>
+
+	                        <img class="img-fluid" width="350" src="img/tipos_fuego.png">
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+	    </section>-->
+
+	   <div class="container-fluid">
+			<div class="row">
+				<div class="col-xs-12 col-sm-12 col-md-6 mt-5 pt-5 mb-5">
+					<img src="img/banner_final.jpg" alt="" width="100%">
+				</div>
+
+				<div class="col-xs-12 col-sm-12 col-md-6 my-auto text-description">
+               <h3 class="font-weight-bold text-purple">Sofoca y Neutraliza el Fuego</h3>
+               <p class="font-weight-normal">Rinoff es un sofocador que se activa automáticamente por exposición al fuego, es capaz de extinguir tipos ABC y BC.</p>
+
+               <img class="img-fluid" width="350" src="img/tipos_fuego.png">
+           </div>
+			</div>
+		</div>
+
+	    <section class="bg-light">
+	    	<div class="wowzers-content-preview mb-3">
+	        	<div class="container">
+	        		
+	        		<div class="row">
+		        		<div class="col-sm-12 col-lg-6">
+
+		        			<p class="f-1-8 font-weight-bold mt-5 pt-3 mb-5 text-purple">
+		    					¿Cómo funciona?
+		    				</p>
+
+		        			<div class="row">
+		        				<div class="col-sm-3 col-md-2 my-auto pb-3">
+		        					<img src="img/icono_1.png" width="70">
+		        				</div>
+
+		        				<div class="col-sm-9 col-md-10 my-auto pb-3">
+		        					<p>Arroje la bola en el conato del fuego.</p>
+		        				</div>
+
+		        				<div class="col-sm-3 col-md-2 my-auto pb-3">
+		        					<img src="img/icono_2.png" width="70">
+		        				</div>
+
+		        				<div class="col-sm-9 col-md-10 my-auto pb-3">
+		        					<p>La bola estallará al entrar en contacto con la temperatura del incendio.</p>
+		        				</div>
+
+		        				<div class="col-sm-3 col-md-2 my-auto pb-xs-3 pb-md-5">
+		        					<img src="img/icono_3.png" width="70">
+		        				</div>
+
+		        				<div class="col-sm-9 col-md-10 my-auto pb-xs-3 pb-md-5">
+		        					<p>Al estallar el agente extintor apagará el fuego desde su raíz.</p>
+		        				</div>
+
+		        			</div>
+
+		        		</div>
+		        	</div>
+	        	</div>	
+	        </div>
+	    </section>
+
+	    <section class="container">
+	    	<div class="row ">
+    			<div class="col-sm-12 col-lg-5 font-weight-light mb-5 pb-5 text-description">
+    				
+    				<p class="f-1-8 mt-5 pt-4 font-weight-bold text-purple">
+    					Activación Automática
+    				</p>
+
+    				<p class="text-gray">
+    					Al ser de activación automática por exposición al calor Rinoff es un complemento ideal para proteger sus activos en los momentos cuando no hay nadie presente que active los extintores.
+    				</p>
+
+    				<p>
+    					<button class="btn btn-link" data-toggle="modal" data-target="#homeVideo">
+	    					<h6 class="text-warning">
+	    							Ver video <i class="lni-arrow-right"></i>
+	    					</h6>
+    					</button>
+    				</p>
+    			</div>
+
+    			<!-- Home Video Modal -->
+				<div class="modal fade" id="homeVideo" tabindex="-1" role="dialog" aria-labelledby="homeVideoLabel">
+					<div class="modal-dialog modal-lg" role="document">
+						<div class="modal-content">
+
+							<button type="button" class="close text-right m-2" data-dismiss="modal" aria-label="Close">
+								<span aria-hidden="true">&times;</span>
+							</button>
+
+							<div class="embed-responsive embed-responsive-16by9">
+
+								<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/2CdtmlFGMn8"></iframe>
+									<!--<video id="gossVideo" class="embed-responsive-item" controls="controls" poster="http://www.gossettmktg.com/	video/dangot.png">
+									<source src="http://www.gossettmktg.com/video/dangot.mp4" type="video/mp4">
+
+									<source src="http://www.gossettmktg.com/video/dangot.webm" type="video/webm">
+
+									<source src="http://www.gossettmktg.com/video/dangot.ogv" type="video/ogg">
+
+									<object type="application/x-shockwave-flash" data="https://releases.flowplayer.org/swf/flowplayer-3.2.1.swf" width="353" height="190">
+
+									<param name="movie" value="https://releases.flowplayer.org/swf/flowplayer-3.2.1.swf">
+
+									<param name="allowFullScreen" value="true">		<param name="wmode" value="transparent">
+
+									<param name="flashVars" value="config={'playlist':['http%3A%2F%2Fwww.gossettmktg.com%2Fvideo%2Fdangot.png',{'url':'http%3A%2F%2Fwww.gossettmktg.com%2Fvideo%2Fdangot.mp4','autoPlay':false}]}">
+
+									<img alt="Error de video" src="https://www.solvetic.com/uploads/tutorials/monthly_06_2019/0b6759145e94c8526adda2c8cc04c5d8.png" width="353" height="190" title="El video no puede reproducirse.">
+									</object>
+								</video>-->
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /Home Video Modal -->
+
+    			<div class="col-sm-12 col-lg-6 offset-lg-1 text-center mt-5 pt-5">
+    				<div class="shadow p-3 mb-5 bg-dark rounded-0 div-wowzer-float-form">
+    					<h2 class="font-weight-light text-white pt-5 pl-3 pr-3 pb-0 f-2">
+    						¡Pide tu Rinoff!
+    					</h2>
+
+                		<p class="text-white pt-4">Protege tus activos con Rinoff, déjanos tus datos y te diremos cuál es el más indicado para tus necesidades.</p>
+
+                		<hr class="bg-white mt-5 mb-0">
+            			<div class="container">
+            				<form action="email.php" method="post" class="mt-4 pt-3 validate" method="POST" autocomplete="off">
+	            				<div class="form-row">
+
+										<div class="col-sm-12 text-left mb-3">
+											<label class="text-white montserrat">Nombre</label>
+											<input type="text" class="form-control" aria-describedby="nameHelp" name="name" class="required" required>
+										</div>
+
+										<div class="col-sm-12 text-left mb-3">
+											<label class="text-white montserrat">Celular</label>
+											<input type="number" class="form-control" aria-describedby="phoneHelp" name="phone" class="required" required>
+										</div>
+
+										<div class="col-sm-12 text-left mb-3">
+											<label class="text-white montserrat">Email</label>
+											<input type="email" class="form-control" aria-describedby="emailHelp" name="email" class="required" required>
+										</div>
+
+										<div class="col-sm-12 text-left mb-3">
+											<label class="text-white montserrat">Empresa (Opcional)</label>
+											<input type="text" class="form-control" aria-describedby="companyHelp" name="company">
+										</div>
+
+
+										<div class="col-sm-12 mt-4 mb-4 shadow mb-5">
+											<button type="submit" name="subscribe" id="mc-embedded-subscribe" class="btn btn-form btn-block rounded-0 p-2">Enviar</button>
+										</div>
+									</div>
+								</form>
+            			</div>
+					</div>
+				</div>
+
+				<div class="mb-5"></div>
+
+				<!--Images-->
+				<div class="col-sm-12 col-lg-4 pt-lg-5 mb-5 text-center">
+					<img class="img-fluid" src="img/image_1_final.jpg">
+				</div>
+
+				<div class="col-sm-12 col-lg-4 pt-lg-5 mb-5 text-center">
+					<img class="img-fluid" src="img/image_2_final.jpg">
+				</div>
+
+				<div class="col-sm-12 col-lg-4 pt-lg-5 mb-5 text-center">
+					<img class="img-fluid" src="img/image_3_final.jpg">
+				</div>
+				<!--/Images-->
+
+
+				<!--Info-->
+				<div class="col-sm-12 text-center mt-5 pt-5">
+					<img src="img/info.png" width="300">
+
+					<div class="text-uppercase mt-5">
+						<p class="p-0 m-0">Industria Nacional - Producido por BRISINCOL</p>
+						<p class="p-0 m-0">Bogotá - Colombia</p>
+						<p class="p-0 m-0">Calle 36H Sur N° 7 - 33 Este</p>
+						<p class="p-0 m-0">Contacto 317 524 7190</p>
+						<p class="p-0 m-0">www.brisincol.com</p>
+					</div>
+
+				</div>
+				<!--/Info-->
+			</div>
+		</section>	
+
+
+		<div class="mt-5 img-footer">
+			<span></span>
+		</div>
+
+
+		<footer class="text-center bg-dark pb-0 pt-2">
+			<span class="text-white mt-2 mb-3">Rinoff - 2020 | Marca registrada - Un producto BRISINCOL</span>
+		</footer>
+
+		<!-- JavaScript -->
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="js/popper.min.js"></script>
+		<script src="js/bootstrap.min.js"></script>
+
+		<script>
+
+			$("#homeVideo").on('hidden.bs.modal', function (e) {
+			   $("#homeVideo iframe").attr("src", $("#homeVideo iframe").attr("src"));
+			});
+
+		</script>
+	</body>
+</html>
