@@ -1,9 +1,9 @@
 <style>
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Sans:400,700&display=swap');
 </style>
 
 body{
-   font-family: 'Montserrat', sans-serif;
+   font-family: 'PT Sans', sans-serif;
 }
 
 header{
@@ -12,8 +12,8 @@ header{
    height: calc(100% - 10px);
 }
 
-.montserrat{
-   font-family: 'Montserrat', sans-serif;
+.f-pt-sans{
+   font-family: 'PT Sans', sans-serif;
 }
 
 .line-height-normal{
@@ -275,7 +275,7 @@ div.img-footer{
 }
 
 h2, h3, h4, h5, h6, p, .form-control, .custom-select, .btn-form{
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'PT Sans', sans-serif;
 }
 
 .navbar-light .navbar-toggler-icon{

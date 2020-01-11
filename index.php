@@ -13,7 +13,7 @@
 
 		<!--Fonts-->
 
-		<link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700,800&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=f-pt-sans:400,600,700,800&display=swap" rel="stylesheet">
 
 		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
@@ -29,7 +29,7 @@
 				<div class="row align-top">
 					<div class="col-sm-12">
 						<div class="row">
-							<div class="col-sm-12 col-md-4 my-auto menu">
+							<div class="col-sm-12 col-md-4 my-auto menu f-pt-sans">
 								<a target="_blank" href="https://api.whatsapp.com/send?phone=573175247190&text=Hola,%20me%20interesa%20adquirir%20el%20producto%20Rinoff%20" target="_blank">
 									Contacto +57 317 5247190
 								</a>
@@ -216,22 +216,22 @@
 	            				<div class="form-row">
 
 										<div class="col-sm-12 text-left mb-3">
-											<label class="text-white montserrat">Nombre</label>
+											<label class="text-white f-pt-sans">Nombre</label>
 											<input type="text" class="form-control" aria-describedby="nameHelp" name="name" class="required" required>
 										</div>
 
 										<div class="col-sm-12 text-left mb-3">
-											<label class="text-white montserrat">Celular</label>
+											<label class="text-white f-pt-sans">Celular</label>
 											<input type="number" class="form-control" aria-describedby="phoneHelp" name="phone" class="required" required>
 										</div>
 
 										<div class="col-sm-12 text-left mb-3">
-											<label class="text-white montserrat">Email</label>
+											<label class="text-white f-pt-sans">Email</label>
 											<input type="email" class="form-control" aria-describedby="emailHelp" name="email" class="required" required>
 										</div>
 
 										<div class="col-sm-12 text-left mb-3">
-											<label class="text-white montserrat">Empresa (Opcional)</label>
+											<label class="text-white f-pt-sans">Empresa (Opcional)</label>
 											<input type="text" class="form-control" aria-describedby="companyHelp" name="company">
 										</div>
 
